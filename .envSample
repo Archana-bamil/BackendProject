@@ -1,0 +1,2 @@
+PORT = 5500
+MONGODB_URL=mongodb+srv://archanabamil2006:SachinD3438@cluster0.p5arc.mongodb.net
